@@ -18,6 +18,7 @@ Each project in this repository showcases various aspects of computer vision and
 
 Here's a list of projects you'll find in this repository:
 - [Project 1: Parking Hassle: Parking Lot Occupancy Detection]: Building a custom object detection model using the PKLot dataset to predict parking space occupancy in different weather conditions.
+- [Project 2: Image classification]: Building a custom CNN model to classify images, comparing results with pre-trained models.
 
 ## How to Use This Repository
 
